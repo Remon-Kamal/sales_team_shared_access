@@ -6,6 +6,7 @@
     'author': 'EISAC AUTOMATION',
     'website': 'https://www.eisac-automation.com/',
     'license': 'LGPL-3',
+    'images': ['static/description/icon.png'], 
     'depends': ['crm', 'sale'],
     'data': [
         'security/security.xml',
